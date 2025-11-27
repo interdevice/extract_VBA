@@ -4,7 +4,7 @@ Script Python para extrair automaticamente código VBA (macros) de arquivos Exce
 
 ## 📂 Localização
 
-**Pasta de trabalho:** `C:\Users\luizh\Documents\excel\`
+**Pasta de trabalho:** `C:\Users\seuUsuario\Documents\excel\`
 
 Coloque seus arquivos Excel (.xlsm, .xls, .xlam) nesta pasta antes de executar o script.
 
@@ -18,7 +18,7 @@ Coloque seus arquivos Excel (.xlsm, .xls, .xlam) nesta pasta antes de executar o
 1. Abra o PowerShell nesta pasta:
 
 ```powershell
-cd C:\Users\luizh\Documents\excel
+cd C:\Users\seuUsuario\Documents\excel
 ```
 
 2. Instale as dependências:
